@@ -7,4 +7,4 @@ I program in languages such as:\
 ☕️Java\
 🟨JavaScript\
 ✨And their frameworks - such as Flask, Spring boot or React✨\
-🕸️I also know HTML and CSS and I'm quite good at visual web design :)\
+🕸️I also know HTML and CSS and I'm quite good at visual web design :)
