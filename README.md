@@ -1,10 +1,10 @@
-### Hi there, I'm Iga 🙋🏻‍♀️ < /br>
+### Hi there, I'm Iga 🙋🏻‍♀️\
 
-and some time ago I started my chapter as a full stack developer👩🏻‍💻__
+and some time ago I started my chapter as a full stack developer👩🏻‍💻\
 
-I program in languages such as:__
-🐍Python__
-☕️Java__
-🟨JavaScript__
-✨And their frameworks - such as Flask, Spring boot or React✨__
-🕸️I also know HTML and CSS and I'm quite good at visual web design :)__
+I program in languages such as:\
+🐍Python\
+☕️Java\
+🟨JavaScript\
+✨And their frameworks - such as Flask, Spring boot or React✨\
+🕸️I also know HTML and CSS and I'm quite good at visual web design :)\
